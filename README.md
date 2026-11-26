@@ -42,7 +42,7 @@ macOS'ta "Sistem Verileri" onlarca gigabayta ulaşır ama içinde ne olduğu gö
 2. DMG'yi açıp **Bytescape**'i **Applications** klasörüne sürükleyin.
 3. İlk açılışta **Sistem Ayarları → Gizlilik ve Güvenlik → Tam Disk Erişimi** bölümünden Bytescape'e izin verin (uygulama sizi doğrudan oraya götürür).
 
-Uygulama Developer ID ile imzalıdır. İlk açılışta macOS bir onay sorabilir; Finder'da Bytescape'e sağ tıklayıp **Aç**'ı seçmeniz yeterlidir.
+Uygulama Developer ID ile imzalı ve Apple tarafından notarize edilmiştir; ek bir güvenlik ayarı gerekmeden açılır.
 
 ## Gereksinimler
 
